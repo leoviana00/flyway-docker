@@ -1,0 +1,1 @@
+INSERT INTO pessoa (cpf, nome, ano_nascimento) VALUES (123098098-14, 'Valério', 1980);
