@@ -3,6 +3,7 @@
 - `Docker`
 - `Pgsql`
 - `Flyway`
+- `Migration`
 
 ## Para confirmar que a tabela foi criada no Postgres
 docker-compose exec db psql -U flyway -d flyway_teste -W -c "select * from flyway.flyway_schema_history"
